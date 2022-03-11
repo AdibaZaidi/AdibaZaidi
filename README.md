@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdibaZaidi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on python activities
 - 📫 How to reach me .
 
